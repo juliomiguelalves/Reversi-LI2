@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utilizador/Desktop/LI2_PL5_26/estado.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+estado.h
+/home/utilizador/Desktop/LI2_PL5_26/estado.h
+stdlib.h
+-
+
+/home/utilizador/Desktop/LI2_PL5_26/estado.h
+
